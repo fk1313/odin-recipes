@@ -1,0 +1,52 @@
+.recipes {
+    font-family: "Times New Roman" , "Arial";
+    font-weight: bold;
+    color: rgb(87, 114, 206);
+    text-align: center;
+    font-size: 24px;
+
+}
+.odin{
+    text-align: center;
+    color: rgb(201, 83, 161);
+    background-color: aqua;
+    font-style: italic;
+    font-size: 36px;
+}
+
+.Moussaka{
+    background-color: rgb(90, 57, 240);
+    text-align: center;
+    font-size: 36px;
+    color: white;
+}
+.Mdess,
+.Mdes,
+.Min,
+.Minlist,
+.Minbech,
+.Msteps,
+.Mstepslist{ font-family: "Arial";
+            font-weight: 500;
+    
+}
+
+.Mimg{
+    text-align: center;
+    
+}
+.Mdess,
+.Msteps,
+.Min{
+    color: rgb(2, 48, 48);
+    font-size: 36px;
+
+}
+.Minlist,
+.Minbech,
+.Mdes,
+.Mstepslist{
+    color: rgb(84, 60, 139);
+    font-size: 18px;
+
+}
