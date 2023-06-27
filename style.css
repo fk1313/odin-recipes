@@ -50,3 +50,82 @@
     font-size: 18px;
 
 }
+
+
+.TG{
+    font-size: 36px;
+    text-align: center;
+    color: rgb(124, 6, 6);
+    background-color: rgb(27, 164, 206);
+}
+.TGimg{
+    text-align: center;
+}
+
+.TG,
+.TGD,
+.TGDD,
+.TGI,
+.TGIG,
+.TGIT,
+.TGITS,
+.TGS,
+.TGSS{
+    font-family: Arial;
+    font-weight: 500;
+}
+.TGD,
+.TGI,
+.TGS{
+    font-size: 26px;
+    color: rgb(108, 85, 192);
+    
+}
+.TGDD{
+    color: rgb(52, 116, 189);
+    font-size: 18px;
+}
+.TGIG,
+.TGIT,
+.TGITS{
+    font-size: 18px;
+    color: rgb(151, 72, 72);
+
+}
+.TGSS{
+    font-size: 18px;
+    color: rgb(52, 116, 189);
+}
+.souimg{
+    text-align: center;
+}
+.Sou{
+    font-size: 36px;
+    color: blue;
+    text-align: center;
+    background-color: rgb(112, 88, 22);
+}
+.Sou,
+.SouD,
+.Soudl,
+.SouI,
+.SouIl,
+.SouS,
+.SouSl{
+    font-family: Arial;
+    font-weight: 500;
+}
+
+.SouD,
+.SouS,
+.SouI{
+    font-size: 26px;
+    color: rgb(40, 88, 31);
+}
+
+.Soudl,
+.SouSl,
+.SouIl{
+    font-size: 18px;
+    color: rgb(7, 129, 89);
+}

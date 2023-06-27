@@ -5,3 +5,4 @@ This is my first project that will demonstrate my ability to use html in a usefu
 --------------------------------
 
 Started styling my website using CSS, it does not look beautiful but it is some way to start.
+Finished my work with CSS on this webpage, might come back to it later on and redo it.
